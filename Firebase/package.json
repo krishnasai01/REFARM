@@ -1,0 +1,14 @@
+{
+  "name": "refarm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "refarm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "firebase": "^7.14.6"
+  }
+}
