@@ -1,0 +1,19 @@
+{
+  "name": "sample-http",
+  "version": "1.0.0",
+  "engines":{
+   "node": ">=8.0.0",
+   "npm": "6.14.4"
+  },
+
+  "scripts":{
+    "test": "echo \"Error: no test specified \" && exit 1",
+    "start": "node ./INDEX.JS"
+
+  },
+  "dependencies":{
+   "express": "^4.17.1",
+   "firebase": "^7.14.6",
+   "body-parser":"^1.19.0"
+  }
+}
